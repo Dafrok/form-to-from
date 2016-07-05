@@ -1,0 +1,3 @@
+# https://www.atom.io/docs/latest/advanced/keymaps
+'.item-views':
+  'm': 'form-to-from:correct'
