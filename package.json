@@ -1,10 +1,9 @@
 {
   "name": "form-to-from",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Spells the word \"from\" right.",
   "main": "./lib/form-to-from.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dafrok/form-to-from.git"
