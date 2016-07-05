@@ -1,6 +1,6 @@
 # form-to-from
 
-The wrong spell like:
+The wrong spell likes:
 
 ```es6
 import Foo form 'foo'
