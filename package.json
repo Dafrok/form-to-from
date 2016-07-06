@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Dafrok/form-to-from#readme",
   "engines": {
-    "atom": ">1.8.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
