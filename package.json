@@ -1,6 +1,6 @@
 {
   "name": "form-to-from",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Spells the word \"from\" right.",
   "main": "./lib/form-to-from.js",
   "scripts": {},
